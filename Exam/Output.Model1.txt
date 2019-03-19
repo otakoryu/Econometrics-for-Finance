@@ -1,0 +1,10 @@
+
+Call:
+arima(x = ldji, order = c(2, 1, 2))
+
+Coefficients:
+          ar1      ar2     ma1     ma2
+      -0.4958  -0.3804  0.3919  0.2831
+s.e.   0.1649   0.1454  0.1697  0.1541
+
+sigma^2 estimated as 0.0001339:  log likelihood = 8190.12,  aic = -16370.24
