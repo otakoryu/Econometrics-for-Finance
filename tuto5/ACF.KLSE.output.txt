@@ -1,0 +1,50 @@
+
+Autocorrelations of series ‘KLSE[, 4][k:(100 + k)]’, by lag
+
+    0     1     2     3     4     5     6     7     8 
+1.000 0.959 0.907 0.848 0.803 0.748 0.696 0.643 0.600 
+
+Autocorrelations of series ‘KLSE[, 4][k:(100 + k)]’, by lag
+
+    0     1     2     3     4     5     6     7     8 
+1.000 0.962 0.910 0.853 0.802 0.748 0.695 0.641 0.589 
+
+Autocorrelations of series ‘KLSE[, 4][k:(100 + k)]’, by lag
+
+    0     1     2     3     4     5     6     7     8 
+1.000 0.965 0.915 0.857 0.807 0.747 0.694 0.641 0.589 
+
+Autocorrelations of series ‘KLSE[, 4][k:(100 + k)]’, by lag
+
+    0     1     2     3     4     5     6     7     8 
+1.000 0.966 0.917 0.860 0.806 0.746 0.690 0.638 0.586 
+
+Autocorrelations of series ‘KLSE[, 4][k:(100 + k)]’, by lag
+
+    0     1     2     3     4     5     6     7     8 
+1.000 0.964 0.916 0.856 0.803 0.742 0.688 0.632 0.578 
+
+Autocorrelations of series ‘KLSE[, 4][k:(100 + k)]’, by lag
+
+    0     1     2     3     4     5     6     7     8 
+1.000 0.963 0.908 0.848 0.796 0.738 0.682 0.623 0.567 
+
+Autocorrelations of series ‘KLSE[, 4][k:(100 + k)]’, by lag
+
+    0     1     2     3     4     5     6     7     8 
+1.000 0.956 0.899 0.837 0.787 0.727 0.667 0.609 0.555 
+
+Autocorrelations of series ‘KLSE[, 4][k:(100 + k)]’, by lag
+
+    0     1     2     3     4     5     6     7     8 
+1.000 0.951 0.891 0.831 0.776 0.709 0.649 0.593 0.543 
+
+Autocorrelations of series ‘KLSE[, 4][k:(100 + k)]’, by lag
+
+    0     1     2     3     4     5     6     7     8 
+1.000 0.948 0.889 0.824 0.761 0.692 0.635 0.584 0.536 
+
+Autocorrelations of series ‘KLSE[, 4][k:(100 + k)]’, by lag
+
+    0     1     2     3     4     5     6     7     8 
+1.000 0.948 0.884 0.809 0.743 0.677 0.624 0.574 0.517 
